@@ -1,0 +1,23 @@
+{
+  "name": "3.node-web-server",
+  "version": "1.0.0",
+  "description": "In this section we are going to learn how to use the express library to make web servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelManuel1995/node-web-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelManuel1995/node-web-server/issues"
+  },
+  "homepage": "https://github.com/AngelManuel1995/node-web-server#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hbs": "^4.0.1"
+  }
+}
